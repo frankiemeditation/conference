@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"..\/..\/..\/Downloads\/webinar-master\/map.json"
+         "format":"json"
         }
     },
  "height":70,
