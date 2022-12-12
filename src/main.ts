@@ -11,11 +11,11 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
-    WA.room.onEnterLayer('start').subscribe(() => {
+    WA.room.area.onEnter('zonePopup').subscribe(() => {
         currentPopup = WA.ui.openPopup("popupArrivee","Bienvenue dans le monde de frankie meditation, ici vous pourrez en apprendre plus sur la méditation grâce à de courtes vidéos!!", []);
     })
 
-    WA.room.onLeaveLayer('start').subscribe(closePopUp)
+    WA.room.onEnter('zonePopup').subscribe(closePopUp)
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
