@@ -903,13 +903,24 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re"
+                         "value":"https:\/\/player.vimeo.com\/video\/748251895?h=bded0d08f6"
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":242,
                  "x":89,
                  "y":384
+                }, 
+                {
+                 "class":"area",
+                 "height":127,
+                 "id":16,
+                 "name":"zonePopup",
+                 "rotation":0,
+                 "visible":true,
+                 "width":386,
+                 "x":32,
+                 "y":608
                 }],
          "opacity":1,
          "properties":[
@@ -1116,7 +1127,7 @@
          "y":0
         }],
  "nextlayerid":132,
- "nextobjectid":16,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
