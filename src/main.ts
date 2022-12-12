@@ -15,7 +15,7 @@ WA.onInit().then(() => {
         currentPopup = WA.ui.openPopup("popupArrivee","Bienvenue dans le monde de frankie meditation, ici vous pourrez en apprendre plus sur la méditation grâce à de courtes vidéos!!", []);
     })
 
-    WA.room.onEnter('zonePopup').subscribe(closePopUp)
+    WA.room.area.onLeave('zonePopup').subscribe(closePopUp)
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
