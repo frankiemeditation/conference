@@ -893,6 +893,23 @@
                  "width":224,
                  "x":96,
                  "y":416
+                }, 
+                {
+                 "class":"area",
+                 "height":77,
+                 "id":15,
+                 "name":"videoAccueil",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/workadventu.re"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":242,
+                 "x":89,
+                 "y":384
                 }],
          "opacity":1,
          "properties":[
@@ -1099,7 +1116,7 @@
          "y":0
         }],
  "nextlayerid":132,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
