@@ -1193,6 +1193,12 @@
                  "height":66.7903768782332,
                  "id":112,
                  "name":"videoAccueilRoom7",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748936226?h=abec5e08fd"
+                        }],
                  "rotation":0,
                  "visible":true,
                  "width":265.532473930536,
@@ -1215,6 +1221,23 @@
                  "width":229.693735117826,
                  "x":2298.56638476065,
                  "y":1467.75925773873
+                }, 
+                {
+                 "class":"area",
+                 "height":117.290417932507,
+                 "id":115,
+                 "name":"offreMeditationCoaching",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/la-meditation-avec-coaching"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":130.322686591674,
+                 "x":1949.95319812793,
+                 "y":1593.19484358322
                 }],
          "opacity":0.97,
          "properties":[
@@ -1583,7 +1606,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":115,
+ "nextobjectid":116,
  "orientation":"orthogonal",
  "properties":[
         {
