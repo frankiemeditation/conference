@@ -863,28 +863,6 @@
          "objects":[
                 {
                  "class":"",
-                 "height":128,
-                 "id":7,
-                 "name":"followUsPopup",
-                 "rotation":0,
-                 "visible":true,
-                 "width":256,
-                 "x":1152,
-                 "y":672
-                }, 
-                {
-                 "class":"",
-                 "height":128,
-                 "id":8,
-                 "name":"needHelpPopup",
-                 "rotation":0,
-                 "visible":true,
-                 "width":256,
-                 "x":1216,
-                 "y":672
-                }, 
-                {
-                 "class":"",
                  "height":96,
                  "id":14,
                  "name":"popupArrivee",
@@ -925,18 +903,6 @@
                 {
                  "class":"variable",
                  "height":0,
-                 "id":22,
-                 "name":"my_door",
-                 "point":true,
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":112.83,
-                 "y":92.31
-                }, 
-                {
-                 "class":"variable",
-                 "height":0,
                  "id":23,
                  "name":"doorRoom1",
                  "point":true,
@@ -966,6 +932,74 @@
                  "width":0,
                  "x":382,
                  "y":458.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":97.7420149437557,
+                 "id":57,
+                 "name":"videoBienfaits",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748934532?h=91c9de0f61"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":102.629115690943,
+                 "x":537.581082190656,
+                 "y":612.516626980869
+                }, 
+                {
+                 "class":"area",
+                 "height":101.000082108548,
+                 "id":65,
+                 "name":"videoDifficultes",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748933686?h=a35310d331"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":110.774283602923,
+                 "x":674.419903111914,
+                 "y":604.371459068889
+                }, 
+                {
+                 "class":"area",
+                 "height":101.000082108547,
+                 "id":68,
+                 "name":"videoFormes",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748932978?h=f34fca3129"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":110.774283602923,
+                 "x":674.419903111914,
+                 "y":464.274570982839
+                }, 
+                {
+                 "class":"area",
+                 "height":97.7420149437557,
+                 "id":74,
+                 "name":"videoBases",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748931544?h=abd42ececb"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":112.403317185319,
+                 "x":532.693981443468,
+                 "y":470.790705312423
                 }],
          "opacity":0.97,
          "properties":[
@@ -1334,7 +1368,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":24,
+ "nextobjectid":75,
  "orientation":"orthogonal",
  "properties":[
         {
