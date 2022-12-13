@@ -1119,6 +1119,34 @@
                  "width":224.806634370638,
                  "x":1345.58173905904,
                  "y":392.597093357419
+                }, 
+                {
+                 "class":"",
+                 "height":0,
+                 "id":104,
+                 "name":"",
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1573.64644059447,
+                 "y":562.016585926595
+                }, 
+                {
+                 "class":"area",
+                 "height":61.9032761310452,
+                 "id":105,
+                 "name":"videoRoom5",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748935062?h=992a463d13"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":232.951802282618,
+                 "x":1099.59766811725,
+                 "y":1472.64635848592
                 }],
          "opacity":0.97,
          "properties":[
@@ -1487,7 +1515,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":104,
+ "nextobjectid":106,
  "orientation":"orthogonal",
  "properties":[
         {
