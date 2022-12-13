@@ -1000,6 +1000,108 @@
                  "width":112.403317185319,
                  "x":532.693981443468,
                  "y":470.790705312423
+                }, 
+                {
+                 "class":"area",
+                 "height":95,
+                 "id":80,
+                 "name":"video7secrets",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":96,
+                 "x":926,
+                 "y":480
+                }, 
+                {
+                 "class":"area",
+                 "height":98,
+                 "id":84,
+                 "name":"videoZentangle",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":91,
+                 "x":929,
+                 "y":608
+                }, 
+                {
+                 "class":"area",
+                 "height":95,
+                 "id":86,
+                 "name":"video5secrets",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":99,
+                 "x":1056,
+                 "y":612
+                }, 
+                {
+                 "class":"area",
+                 "height":87,
+                 "id":88,
+                 "name":"videoQualiteVie",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":88,
+                 "x":1058,
+                 "y":487
+                }, 
+                {
+                 "class":"area",
+                 "height":47,
+                 "id":91,
+                 "name":"videoAccueilRoom3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/759588667?h=de956856ab"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":222,
+                 "x":926,
+                 "y":398
+                }, 
+                {
+                 "class":"area",
+                 "height":45,
+                 "id":93,
+                 "name":"videoAccueilRoom2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748930596?h=97a6758f3d"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":246,
+                 "x":516,
+                 "y":750
                 }],
          "opacity":0.97,
          "properties":[
@@ -1368,7 +1470,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":79,
+ "nextobjectid":94,
  "orientation":"orthogonal",
  "properties":[
         {
