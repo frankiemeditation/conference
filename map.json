@@ -1107,7 +1107,7 @@
                  "class":"area",
                  "height":53.7581082190657,
                  "id":103,
-                 "name":"videoRoom4",
+                 "name":"videoAccueilRoom4",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1158,7 +1158,7 @@
                  "class":"area",
                  "height":68.419410460629,
                  "id":107,
-                 "name":"videoRoom6",
+                 "name":"videoAccueilRoom6",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1187,6 +1187,17 @@
                  "width":118.919451514903,
                  "x":1573.64644059447,
                  "y":1598.08194433041
+                }, 
+                {
+                 "class":"area",
+                 "height":66.7903768782332,
+                 "id":112,
+                 "name":"videoAccueilRoom7",
+                 "rotation":0,
+                 "visible":true,
+                 "width":265.532473930536,
+                 "x":1881.5337876673,
+                 "y":1464.50119057394
                 }],
          "opacity":0.97,
          "properties":[
@@ -1555,7 +1566,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":110,
+ "nextobjectid":114,
  "orientation":"orthogonal",
  "properties":[
         {
