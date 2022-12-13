@@ -1104,21 +1104,10 @@
                  "y":750
                 }, 
                 {
-                 "class":"",
-                 "height":0,
-                 "id":94,
-                 "name":"",
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":839,
-                 "y":670
-                }, 
-                {
                  "class":"area",
-                 "height":52.1290746366697,
-                 "id":95,
-                 "name":"videoAccueilRoom4",
+                 "height":53.7581082190657,
+                 "id":103,
+                 "name":"videoRoom4",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1127,9 +1116,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":203.629197799491,
-                 "x":1337.43657114706,
-                 "y":397.484194104606
+                 "width":224.806634370638,
+                 "x":1345.58173905904,
+                 "y":392.597093357419
                 }],
          "opacity":0.97,
          "properties":[
@@ -1498,7 +1487,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":100,
+ "nextobjectid":104,
  "orientation":"orthogonal",
  "properties":[
         {
