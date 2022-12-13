@@ -1113,6 +1113,23 @@
                  "width":0,
                  "x":839,
                  "y":670
+                }, 
+                {
+                 "class":"area",
+                 "height":52.1290746366697,
+                 "id":95,
+                 "name":"videoAccueilRoom4",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/759589596?h=c8ddf70f0f"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":203.629197799491,
+                 "x":1337.43657114706,
+                 "y":397.484194104606
                 }],
          "opacity":0.97,
          "properties":[
@@ -1481,7 +1498,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":95,
+ "nextobjectid":100,
  "orientation":"orthogonal",
  "properties":[
         {
