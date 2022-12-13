@@ -1238,6 +1238,39 @@
                  "width":130.322686591674,
                  "x":1949.95319812793,
                  "y":1593.19484358322
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":116,
+                 "name":"doorRoom2",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":816.14582478036,
+                 "y":452.871335906068
                 }],
          "opacity":0.97,
          "properties":[
@@ -1605,8 +1638,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":134,
- "nextobjectid":116,
+ "nextlayerid":135,
+ "nextobjectid":117,
  "orientation":"orthogonal",
  "properties":[
         {
