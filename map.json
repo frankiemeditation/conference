@@ -937,23 +937,6 @@
                  "class":"area",
                  "height":97.7420149437557,
                  "id":57,
-                 "name":"videoBienfaits",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/player.vimeo.com\/video\/748933686?h=a35310d331"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":102.629115690943,
-                 "x":537.581082190656,
-                 "y":612.516626980869
-                }, 
-                {
-                 "class":"area",
-                 "height":101.000082108548,
-                 "id":65,
                  "name":"videoDifficultes",
                  "properties":[
                         {
@@ -963,8 +946,25 @@
                         }],
                  "rotation":0,
                  "visible":true,
+                 "width":102.629115690943,
+                 "x":537.581082190656,
+                 "y":607.52
+                }, 
+                {
+                 "class":"area",
+                 "height":101.000082108548,
+                 "id":65,
+                 "name":"videoBienfaits",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748933686?h=a35310d331"
+                        }],
+                 "rotation":0,
+                 "visible":true,
                  "width":110.774283602923,
-                 "x":674.419903111914,
+                 "x":672.42,
                  "y":604.371459068889
                 }, 
                 {
@@ -1000,39 +1000,6 @@
                  "width":112.403317185319,
                  "x":532.693981443468,
                  "y":470.790705312423
-                }, 
-                {
-                 "class":"",
-                 "height":0,
-                 "id":75,
-                 "name":"",
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":498,
-                 "y":279
-                }, 
-                {
-                 "class":"",
-                 "height":0,
-                 "id":76,
-                 "name":"",
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":1738,
-                 "y":1218
-                }, 
-                {
-                 "class":"",
-                 "height":0,
-                 "id":77,
-                 "name":"",
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":1680,
-                 "y":1210
                 }],
          "opacity":0.97,
          "properties":[
@@ -1401,7 +1368,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":78,
+ "nextobjectid":79,
  "orientation":"orthogonal",
  "properties":[
         {
