@@ -1121,21 +1121,10 @@
                  "y":392.597093357419
                 }, 
                 {
-                 "class":"",
-                 "height":0,
-                 "id":104,
-                 "name":"",
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":1573.64644059447,
-                 "y":562.016585926595
-                }, 
-                {
                  "class":"area",
                  "height":61.9032761310452,
                  "id":105,
-                 "name":"videoRoom5",
+                 "name":"videoAccueilRoom5",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1147,6 +1136,23 @@
                  "width":232.951802282618,
                  "x":1099.59766811725,
                  "y":1472.64635848592
+                }, 
+                {
+                 "class":"area",
+                 "height":109.145250020527,
+                 "id":106,
+                 "name":"challenge14jours",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/le-challenge-de-14-jours-de-meditation"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":114.032350767715,
+                 "x":1159.8719106659,
+                 "y":1607.85614582478
                 }],
          "opacity":0.97,
          "properties":[
@@ -1515,7 +1521,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":106,
+ "nextobjectid":107,
  "orientation":"orthogonal",
  "properties":[
         {
