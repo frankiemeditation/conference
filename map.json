@@ -1005,12 +1005,12 @@
                  "class":"area",
                  "height":95,
                  "id":80,
-                 "name":"video7secrets",
+                 "name":"pdf7secrets",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/les-7-secrets-de-la-meditation"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1022,12 +1022,12 @@
                  "class":"area",
                  "height":98,
                  "id":84,
-                 "name":"videoZentangle",
+                 "name":"ebookZentangle",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/mediter-en-dessinant-zentangle-ebook"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1039,12 +1039,12 @@
                  "class":"area",
                  "height":95,
                  "id":86,
-                 "name":"video5secrets",
+                 "name":"lecons5secrets",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/les-5-secrets-de-la-meditation"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1056,18 +1056,18 @@
                  "class":"area",
                  "height":87,
                  "id":88,
-                 "name":"videoQualiteVie",
+                 "name":"playbookQualiteVie",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/5-minutes-pour-ameliorer-ta-qualite-de-vie-playbook"
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":88,
                  "x":1058,
-                 "y":487
+                 "y":482.112899252812
                 }, 
                 {
                  "class":"area",
@@ -1100,8 +1100,19 @@
                  "rotation":0,
                  "visible":true,
                  "width":246,
-                 "x":516,
+                 "x":519,
                  "y":750
+                }, 
+                {
+                 "class":"",
+                 "height":0,
+                 "id":94,
+                 "name":"",
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":839,
+                 "y":670
                 }],
          "opacity":0.97,
          "properties":[
@@ -1470,7 +1481,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":94,
+ "nextobjectid":95,
  "orientation":"orthogonal",
  "properties":[
         {
