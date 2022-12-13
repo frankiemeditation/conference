@@ -1141,7 +1141,7 @@
                  "class":"area",
                  "height":109.145250020527,
                  "id":106,
-                 "name":"challenge14jours",
+                 "name":"achatChallenge14jours",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1153,6 +1153,40 @@
                  "width":114.032350767715,
                  "x":1159.8719106659,
                  "y":1607.85614582478
+                }, 
+                {
+                 "class":"area",
+                 "height":68.419410460629,
+                 "id":107,
+                 "name":"videoRoom6",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/748936572?h=4f70986e35"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":208.516298546679,
+                 "x":1516.63026521061,
+                 "y":1467.75925773873
+                }, 
+                {
+                 "class":"area",
+                 "height":112.403317185319,
+                 "id":109,
+                 "name":"achatMethodeMeditation",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/lameditationavecfrankie.podia.com\/la-methode-pour-demarrer-a-la-cool"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":118.919451514903,
+                 "x":1573.64644059447,
+                 "y":1598.08194433041
                 }],
          "opacity":0.97,
          "properties":[
@@ -1521,7 +1555,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":107,
+ "nextobjectid":110,
  "orientation":"orthogonal",
  "properties":[
         {
