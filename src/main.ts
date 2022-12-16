@@ -12,10 +12,16 @@ WA.onInit().then(() => {
     console.log('Player tags: ',WA.player.tags)
 
     WA.room.area.onEnter('zonePopup').subscribe(() => {
-        currentPopup = WA.ui.openPopup("popupArrivee","Bienvenue dans le monde de frankie meditation, ici vous pourrez en apprendre plus sur la méditation grâce à de courtes vidéos!!", []);
+        currentPopup = WA.ui.openPopup("popupArrivee","Bienvenue dans le monde de frankie meditation, ici vous pourrez en apprendre plus sur la méditation grâce à de courtes vidéos !", []);
     })
 
     WA.room.area.onLeave('zonePopup').subscribe(closePopUp)
+
+    WA.room.area.onEnter('doorCode').subscribe(() => {
+        currentPopup = WA.ui.openPopup("doorCodePopup","Regardez la vidéo sur le grand écran pour récupérer le code.", []);
+    })
+
+    WA.room.area.onLeave('doorCode').subscribe(closePopUp)
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
