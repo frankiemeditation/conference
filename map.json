@@ -1015,6 +1015,11 @@
                          "value":false
                         }, 
                         {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"openLayer",
                          "type":"string",
                          "value":"openDoorRoom1"
@@ -1403,42 +1408,6 @@
                  "y":444.726167994088
                 }],
          "opacity":0.97,
-         "properties":[
-                {
-                 "name":"closeLayer",
-                 "type":"string",
-                 "value":"closed_door"
-                }, 
-                {
-                 "name":"closeSound",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"default",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"door",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"openLayer",
-                 "type":"string",
-                 "value":"opened_door"
-                }, 
-                {
-                 "name":"openSound",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"persist",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
